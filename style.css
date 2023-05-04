@@ -1,0 +1,32 @@
+.color {
+    color: green;
+}
+.font-50 {
+    font-size: 50px;
+}
+
+h1 {
+    background-color: yellowgreen;
+}
+
+#big {
+    background: yellowgreen;
+    color: darkgreen;
+}
+
+.tb td {
+    border: 1px solid #000;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    height: 80px;
+    background: gray;
+}
+
+.item {
+    padding: 20px;
+    border: 3px solid black;
+    background: white;
+}
