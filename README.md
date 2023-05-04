@@ -6,3 +6,7 @@
 
 아래의 주소로 들어오세요 ^^
 https://sm4640.github.io/seungstargram/index.html
+
+[광고문의]
+문의 주소 https://github.com/leestana01
+가격 : 70만원 이상~
