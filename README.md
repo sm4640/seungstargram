@@ -5,7 +5,7 @@
 환상의 세계 SeungStarGram으로 어서오세요!
 
 아래의 주소로 들어오세요 ^^
-https://sm4640.github.io/seungstargram/index.html
+https://sm4640.github.io/seungstargram/firstpage.html
 
 [광고문의]
 문의 주소 https://github.com/leestana01
